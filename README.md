@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **JavaScript / React-JS / HTML / CSS / Express / NodeJS**
 
-- 👯 I’m looking to collaborate on Open source Web project
+- 👯 I’m looking to **collaborate on Open source Web project**
 
-- 🤔 I’m looking for help with JOB
+- 🤔 I’m looking for **help with JOB**
 
 - 📫 How to reach me **ksechenari@gmail.com**
 
