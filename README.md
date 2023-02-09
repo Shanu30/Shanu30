@@ -4,13 +4,11 @@
 
 - 🌱 I’m currently learning **Something New**
 
-- 💬 Ask me about **JavaScript / React-JS / HTML / CSS / Express / NodeJS**
+- 💬 Ask me about **JavaScript / React-JS / HTML / CSS / Express / NodeJS / Java / MongoDb / OOPs**
 
 - 👯 I’m looking to **collaborate on Open source Web project**
 
-- 🤔 I’m looking for **help with a JOB**
-
-- 📫 How to reach me **ksechenari@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/kumar-shanu-a73636140/**
 
 - ⚡ Fun fact **I ❤️ Travelling**
 
@@ -74,7 +72,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shanu30" alt="Shanu30" /></a> </p>
 
 # Git Stats:
-<a href="https://github.com/Shanu30/github-readme-activity-graph"><img alt="Satyamall Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shanu30&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Shanu30/github-readme-activity-graph"><img alt="Shanu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shanu30&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 # Projects and Deployed: 
 
